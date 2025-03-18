@@ -1,0 +1,33 @@
+{
+  "JIRA": {
+    "USER_LOGIN": "user",
+    "USER_PASSWORD": "password",
+    "JIRA_LOGIN_URL": "https://jira.com/login.jsp"
+  },
+  "NUMBERS": {
+    "INTEGRATION": [],
+    "PERFORMANCE": []
+  },
+  "ISSUES": {
+    "INTEGRATION": [
+      {
+        "ISSUE_ID": "PROJECT-1111",
+        "ISSUE_NAME": "Name of the issue"
+      },
+      {
+        "ISSUE_ID": "PROJECT-2222",
+        "ISSUE_NAME": "Name of the issue"
+      }
+    ],
+    "PERFORMANCE": [
+      {
+        "ISSUE_ID": "PROJECT-3333",
+        "ISSUE_NAME": "Name of the issue"
+      }
+    ]
+  },
+  "CLONE": {
+    "INTEGRATION": true,
+    "PERFORMANCE": true
+  }
+}
